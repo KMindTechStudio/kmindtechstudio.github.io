@@ -2,10 +2,11 @@ undrads.com, 339344c229e849e596273120360d8f77, DIRECT, af377814dd864068
 MANAGERDOMAIN=undrads.com
 OWNERDOMAIN=kmindstudio.com
 
+# Google AdMob (K-Mind Studio)
+google.com, pub-3373762468412023, DIRECT, f08c47fec0942fa0
+
 # --------UndrAds Start--------
 
-# Google
-google.com, pub-3373762468412023, DIRECT, f08c47fec0942fa0
 google.com, pub-8766006423657606, DIRECT, f08c47fec0942fa0
 google.com, pub-4613823032840158, DIRECT, f08c47fec0942fa0
 google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
@@ -31,10 +32,10 @@ smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 
-# PubMatic
+# Pubmatic
 pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
 
-# RTBDemand
+# rtbdemand
 rtbdemand.com, 23352173957, DIRECT
 rubiconproject.com, 26890, RESELLER, 0bfd66d529a55807
 pubmatic.com, 159855, RESELLER, 5d62403b186f2ace
