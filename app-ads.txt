@@ -54,6 +54,7 @@ openx.com, 564281401, RESELLER, 6a698e2ec38604c6
 ironsource.com, 671549, DIRECT, 8e355030e567713d
 
 # Unity Ads
+unity.com, 8213334, DIRECT, 96cabb5fbdde37a7
 unity3d.com, 8213334, DIRECT, 96cabb5fbdde37a7
 spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
 xandr.com, 17779, RESELLER
