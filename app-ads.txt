@@ -36,6 +36,7 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
 
 # rtbdemand
+rtbdemand.com, {seller id}, DIRECT
 rtbdemand.com, 23352173957, DIRECT
 rubiconproject.com, 26890, RESELLER, 0bfd66d529a55807
 pubmatic.com, 159855, RESELLER, 5d62403b186f2ace
